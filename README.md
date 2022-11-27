@@ -1,6 +1,6 @@
 Hello 👋,
 
-I am a developer looking for a company to carry out the FCT internship of the higher degree in multiplatform application development.
+I am a developer looking for a company to carry out the FCT internship of the higher degree in cross-platform application development.
 
 Hola 👋,
 
