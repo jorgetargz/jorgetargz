@@ -1,10 +1,10 @@
 Hello 👋,
 
-I am a developer looking for a company to carry out the FCT internship of the higher degree in cross-platform application development.
+I am a developer getting deeper every day in the Android development world currently making an internship at VASS Madrid
 
 Hola 👋,
 
-Soy un desarrollador en busca de una empresa para realizar las practicas FCT del grado superior en desarrollo de aplicaciones multiplataforma.
+Soy un desarrollador enfocado en el desarrollo Android actualmente estoy realizando las FCTs en VASS Madrid
 
 <a href="https://es.linkedin.com/in/jorge-martin-dev?trk=profile-badge">
   
